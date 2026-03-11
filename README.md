@@ -29,19 +29,17 @@ The dataset contains **metadata only**, not the original articles.
 
 Each record includes a link to the original item on Trove.
 
-### Fields
+### Column Description
 
-  Column                    Description
-  ------------------------- -----------------------------------
-  title                     Newspaper article title
-  date_or_period            Publication date
-  author_or_creator         Article author (if available)
-  description_or_abstract   Article snippet provided by Trove
-  url_to_original_object    Direct link to the Trove article
-  trove_category            Trove content category
-  trove_record_type         Type of Trove record
-  trove_id                  Unique Trove identifier
-  trove_url                 Trove record URL
+- **title** — Newspaper article title  
+- **date_or_period** — Publication date  
+- **author_or_creator** — Article author (if available)  
+- **description_or_abstract** — Article snippet provided by Trove  
+- **url_to_original_object** — Direct link to the Trove article  
+- **trove_category** — Trove content category  
+- **trove_record_type** — Type of Trove record  
+- **trove_id** — Unique Trove identifier  
+- **trove_url** — Trove record URL
 
 ## Methodology
 
