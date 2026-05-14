@@ -10,7 +10,7 @@ import requests
 
 API_URL = "https://api.trove.nla.gov.au/v3/result"
 
-TROVE_API_KEY = "ZviyAnc5F5jrO4OKvDeDy4Z2cqdq3kXT"
+TROVE_API_KEY = "TroveAPIKey"
 
 OUT_DIR = "data"
 OUT_JSONL = os.path.join(OUT_DIR, "trove_genocide_au_press.jsonl")
